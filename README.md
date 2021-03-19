@@ -4,8 +4,8 @@
 DataShops是一个企业级PaaS平台，为企业提供数据集成、数据开发、数据地图、数据质量和数据服务等全方位的产品服务，一站式开发管理的界面，帮助企业专注于数据价值的挖掘和探索。
 
 ## 演示地址
+[演示地址](https://www.datashops.cn)
 ```
- https://www.datashops.cn
  账号: admin
  密码: 123456
 ```
@@ -45,3 +45,4 @@ DataShops是一个分布式系统，分为master、worker、api三大组件，�
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * shiwei138@163.com
+* 微信：qinshiwei9226

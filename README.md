@@ -45,4 +45,4 @@ DataShops是一个分布式系统，分为master、worker、api三大组件，�
 
 * shiwei138@163.com
 * qq：420794644
-* 公众号：大数据前线，enterpit
+* 公众号：大数据前线
